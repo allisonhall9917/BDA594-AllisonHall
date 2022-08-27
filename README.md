@@ -1,6 +1,7 @@
 # BDA594-AllisonHall
 Git Web Exercise One
-#Allison Hall
+
+Allison Hall
 
 https://sdsu.instructure.com/courses/113151
 
